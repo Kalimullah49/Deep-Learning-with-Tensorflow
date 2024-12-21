@@ -51,7 +51,7 @@ Welcome to the **Machine Learning Repository** by **Hafiz Kalimullah**! This rep
 ---
 
 ## 🌐 **Getting Started**
-1. Clone the repository: `git clone https://github.com/hafizkalimullah/your-repo.git`
+1. Clone the repository: `git clone https://github.com/hafizkalimullah/https://github.com/Kalimullah49/Deep-Learning-with-Tensorflow
 2. Navigate to the directory: `cd your-repo`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Start exploring the notebooks in Jupyter: `jupyter notebook`
